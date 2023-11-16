@@ -97,3 +97,4 @@ plt.title('Korelasi antara Weathersit dan Jumlah Penyewaan Sepeda')
 - Jumlah penyewaan sepeda pada hari kerja lebih banyak dari pada hari libur
 - Hasil korelasi menunjukkan adanya hubungan yang signifikan antara kondisi cuaca dan jumlah sepeda yang disewa.
 """
+

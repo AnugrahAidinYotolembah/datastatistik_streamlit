@@ -22,7 +22,7 @@ Original file is located at
 import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
-import seaborn as sns
+
 
 """## Data Wrangling
 
